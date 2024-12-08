@@ -1,0 +1,9 @@
+Alt+Click
+    add secondary cursors
+
+Ctrl+D 
+    selects the word at the cursor
+
+Shift+Alt 
+    Column (box) selection while dragging to the opposite corner
+    
