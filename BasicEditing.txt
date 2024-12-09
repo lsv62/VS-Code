@@ -7,3 +7,6 @@ Ctrl+D
 Shift+Alt 
     Column (box) selection while dragging to the opposite corner
     
+Ctrl+Shift+F 
+    enter search term over all files in the currently opened folder
+    
