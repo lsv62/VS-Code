@@ -21,4 +21,6 @@ Up, Down
 
 $n 
     n is the order of the capture group
-    
+
+Ctrl+Space
+    manually trigger the IntelliSense suggestions
