@@ -10,3 +10,15 @@ Shift+Alt
 Ctrl+Shift+F 
     enter search term over all files in the currently opened folder
     
+Up, Down
+    reuse a previous search term
+
+\u and \l 
+    upper/lowercase a single character
+    
+\U and \L 
+    upper/lowercase the rest of the matching group
+
+$n 
+    n is the order of the capture group
+    
