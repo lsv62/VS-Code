@@ -24,3 +24,7 @@ $n
 
 Ctrl+Space
     manually trigger the IntelliSense suggestions
+
+Ctrl+K Ctrl+0
+    folds all regions in the editor
+    
