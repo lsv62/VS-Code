@@ -1,3 +1,6 @@
+## Basic editing
+https://code.visualstudio.com/docs/editing/codebasics
+
 Alt+Click
     add secondary cursors
 
