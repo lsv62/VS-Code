@@ -13,11 +13,15 @@ Outline view |showing the symbol tree of the currently active editor|
 Timeline view|visualizing the events history for a file             |
 ## Basic editing
 https://code.visualstudio.com/docs/editing/codebasics
-
+### Multiple selection
 ShortCut              |Definition                                  |
 ----------------------|--------------------------------------------|
 Alt+Click             |add secondary cursors
+Shift+Ctrl+Up/Down    |add more cursors above or below
 Ctrl+D                |selects the word at the cursor
 Shift+Alt             |Column (box) selection while dragging to the opposite corner
 Ctrl+Shift+F          |enter search term over all files in the currently opened folder
-    
+
+Menu|Definition
+-|-
+Selection > Switch to ...|Ctrl/Alt+Click for Multi-Cursor selection
