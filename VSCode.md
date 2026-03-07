@@ -27,3 +27,11 @@ Selection > Switch to ...|Ctrl/Alt+Click for Multi-Cursor selection
 
 ### Column (box) selection
 Selection > Column Selection Mode
+
+### Search across files
+* **Ctrl+Shift+F** - search over all files in the currently opened folder.
+
+### Search Editor
+* **Open New Search Editor button** - third button on the top of the Search view
+
+### Formatting
