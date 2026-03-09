@@ -46,3 +46,11 @@ Selection > Column Selection Mode
 * **Ctrl+K D:** compare the current file with the last saved version
 * **Ctrl+K C:** compare the current file with the clipboard conten
 * **Select for Compare:** in dropsown menu after right-click on a file in the Explorer view and then, right-click on a second file and select **Compare with Selected**
+
+# SOURCE CONTROL
+## Common workflows
+### Stage and commit changes
+AI can generate a commit message based on your staged changes
+
+### Resolve merge conflicts
+
