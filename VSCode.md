@@ -71,3 +71,9 @@ Options to resolve the conflicts:
 *  **Git: Merge Branc**h from the Command Palette
 
 ### Working with Git worktrees
+#### Understanding worktrees
+Worktrees allows you to have multiple working directories for the same repository, each on a different branch.
+
+#### Create a worktree
+* Select **Repositories** in **SOURCE CONTROL** more actions...
+* Seect **Create worktree** in current repository more actions...
