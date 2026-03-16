@@ -37,3 +37,6 @@ Worktrees allows you to have multiple working directories for the same repositor
 
 #### Switch between worktrees
 Each worktree appears as a separate repository in the Source Control Repositories view
+
+#### Compare and migrate changes from a worktree
+In the Source Control view, right-click a changed file in the worktree and select Compare with Workspace to see the differences side-by-side.
