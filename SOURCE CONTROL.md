@@ -39,4 +39,5 @@ Worktrees allows you to have multiple working directories for the same repositor
 Each worktree appears as a separate repository in the Source Control Repositories view
 
 #### Compare and migrate changes from a worktree
-In the Source Control view, right-click a changed file in the worktree and select Compare with Workspace to see the differences side-by-side.
+* In the Source Control view, right-click a changed file in the worktree and select Compare with Workspace to see the differences side-by-side.
+* After reviewing, use the Migrate Worktree Changes command from the Command Palette to merge all changes from a worktree into your current workspace.
