@@ -31,6 +31,12 @@ Options to resolve the conflicts:
 #### Understanding worktrees
 Worktrees allows you to have multiple working directories for the same repository, each on a different branch.
 
+Useful for:
+
+* Work on multiple features simultaneously in separate folders
+* Run different versions of your application side by side
+* Compare implementations across branches
+
 #### Create a worktree
 * Select **Repositories** in **SOURCE CONTROL** more actions...
 * Seect **Create worktree** in current repository more actions...
