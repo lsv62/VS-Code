@@ -24,7 +24,7 @@ Options to resolve the conflicts:
 * **Git: Delete Branch** from the Command Palette
 
 #### Merge and publish branches
-*  **Git: Merge Branc**h from the Command Palette
+*  **Git: Merge Branch** from the Command Palette
 
 ### Working with Git worktrees
 
