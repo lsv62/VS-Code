@@ -47,3 +47,12 @@ Each worktree appears as a separate repository in the Source Control Repositorie
 #### Compare and migrate changes from a worktree
 * In the Source Control view, right-click a changed file in the worktree and select Compare with Workspace to see the differences side-by-side.
 * After reviewing, use the Migrate Worktree Changes command from the Command Palette to merge all changes from a worktree into your current workspace.
+
+## Working with GitHub in VS Code
+
+### Editor integration
+
+#### Hovers
+A user can be mensioned as @lsv62 (for example, in a code comment), you can hover over that username and see a GitHub-style hover with the user's details. 
+
+A similar hover for #-mentioned issue numbers, full GitHub issue URLs, and repository specified issues.
