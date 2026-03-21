@@ -6,8 +6,8 @@ https://code.visualstudio.com/docs/sourcecontrol/overview
 
 ### Common workflows
 
-#### Stage and commit changes
-AI can generate a commit message based on your staged changes
+#### Review changes before committing
+Click on **Commit** 
 
 #### Resolve merge conflicts
 Options to resolve the conflicts:
