@@ -1,9 +1,8 @@
 
 # SOURCE CONTROL
-https://code.visualstudio.com/docs/sourcecontrol/overview
 
 ## Overview
-
+https://code.visualstudio.com/docs/sourcecontrol/overview
 ### Common workflows
 
 #### Review changes before committing
@@ -16,7 +15,7 @@ Options to resolve the conflicts:
 * Use AI assistance to help resolve merge conflicts
 
 ## Staging and committing
-
+https://code.visualstudio.com/docs/sourcecontrol/staging-commits
 ### Staging changes
 
 #### Stage specific lines or code blocks
@@ -33,10 +32,14 @@ To cycle through your previous commit messages, press **Up** and **Down** while 
 #### Use the editor for commit messages
 In the Source Control view, select Commit without entering a message in the commit input box. 
 
-#### Amend the previous commit
+#### Undo the last commit
+**Undo Last Commit** in **More Actions (...)** menu removes the last commit from branch history but keeps all the changes from that commit staged in the **Staged Changes** section
+
+### Graph view for commit history
+Select a commit and compare it with another branch or tag by right-clicking the commit and selecting **Compare with**, **Compare with Remote**, or **Compare with Merge Base**
 
 ## Branches and Worktrees
-
+https://code.visualstudio.com/docs/sourcecontrol/branches-worktrees
 ### Working with branches
 
 #### Rename and delete branches
