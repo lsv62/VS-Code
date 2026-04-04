@@ -1,3 +1,6 @@
+# Github Pull Request
+https://www.youtube.com/watch?v=LdSwWxVzUpo
+
 ## Authenticating and connecting VS Code to GitHub
 - Ctrl-Shift-P -> Github Pull Request: Sign in to Github
 - PULL REQUEST -> ... -> Open on Github
@@ -10,3 +13,6 @@
 ## Completion suggestions for users and issues.
 ## A "Start working on issue" action which can create a branch for you.
 ## Code actions to create issues from "todo" comments.
+
+## Creating an issure
+ISSURES -> "+"
