@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=LdSwWxVzUpo
 1. Checkout main
 2. Select Github
 3. Select "->" on PULL REQUESTS
+4. Add Comment
+5. Click Merge
 
 ## Authenticating and connecting VS Code to GitHub
 - Ctrl-Shift-P -> Github Pull Request: Sign in to Github
