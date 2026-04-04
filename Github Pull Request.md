@@ -9,6 +9,11 @@ https://www.youtube.com/watch?v=LdSwWxVzUpo
 5. Write DESCRIPTION
 6. Click Create
 
+## Checkout Pull Request
+1. Checkout main
+2. Select Github
+3. Select "->" on PULL REQUESTS
+
 ## Authenticating and connecting VS Code to GitHub
 - Ctrl-Shift-P -> Github Pull Request: Sign in to Github
 - PULL REQUEST -> ... -> Open on Github
