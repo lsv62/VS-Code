@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=LdSwWxVzUpo
 5. Write DESCRIPTION
 6. Click Create
 
-## Checkout Pull Request
+## Merge Pull Request
 1. Checkout main
 2. Select Github
 3. Select "->" on PULL REQUESTS
