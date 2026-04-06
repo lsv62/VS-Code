@@ -1,7 +1,7 @@
-# Github Pull Request
+# Github Pull Request (PR)
 https://www.youtube.com/watch?v=LdSwWxVzUpo
 
-## Create Pull Request
+## Create PR
 1. Select PULL REQUEST -> Create Pull Request
 2. Choose BASE
 3. Choose MERGE
@@ -9,25 +9,17 @@ https://www.youtube.com/watch?v=LdSwWxVzUpo
 5. Write DESCRIPTION
 6. Click Create
 
-## Merge Pull Request
+## Comment or Merge PR
 1. Checkout main
 2. Select Github
-3. Select "->" on PULL REQUESTS
-4. Add Comment
-5. Click Merge
+3. Select "->" on PULL REQUESTS to checkout PR
+4. Select PR to add comment or merge PR
 
-## Authenticating and connecting VS Code to GitHub
-- Ctrl-Shift-P -> Github Pull Request: Sign in to Github
-- PULL REQUEST -> ... -> Open on Github
-## Listing and browsing PRs from within VS CodCe.
-## Reviewing PRs from within VS Code with in-editor commenting.
-## Validating PRs from within VS Code with easy checkouts.
-## Terminal integration that enables UI and CLIs to co-exist.
-## Listing and browsing issues from within VS Code.
-## Hover cards for "@" mentioned users and for issues.
-## Completion suggestions for users and issues.
-## A "Start working on issue" action which can create a branch for you.
-## Code actions to create issues from "todo" comments.
+## Web version of VS Code
+1. Sign in to Github
+2. Select PUll Request on repo
+3. Choose PR
+4. Push "." on keyboard
 
 ## Creating an issure
 ISSURES -> "+"
